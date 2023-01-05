@@ -1,6 +1,8 @@
 ## FireChat is a social app built with React Native and firebase
 
-![james-lee-YIy1cd3xN4w-unsplash](https://user-images.githubusercontent.com/57681550/164285554-9b8789a6-f6a5-4fde-b411-568a14244d77.jpg)
+![james-lee-YIy1cd3xN4w-unsplash](<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/57681550/164285554-9b8789a6-f6a5-4fde-b411-568a14244d77.jpg
+" width="200" height="400" />
+)
 
 ## Front end
 - React Navigation
